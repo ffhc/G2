@@ -1,0 +1,62 @@
+{
+  "2000": [
+    { "value": 0, "city": "Sandy" },
+    { "value": 0, "city": "Apple" },
+    { "value": 0, "city": "Darren" }
+  ],
+  "2001": [
+    { "value": 1000, "city": "Sandy" },
+    { "value": 500, "city": "Apple" },
+    { "value": 200, "city": "Darren" }
+  ],
+  "2002": [
+    { "value": 2000, "city": "Sandy" },
+    { "value": 1000, "city": "Apple" },
+    { "value": 600, "city": "Darren" }
+  ],
+  "2003": [
+    { "value": 3000, "city": "Sandy" },
+    { "value": 1500, "city": "Apple" },
+    { "value": 700, "city": "Darren" }
+  ],
+  "2004": [
+    { "value": 5000, "city": "Sandy" },
+    { "value": 1550, "city": "Apple" },
+    { "value": 1000, "city": "Darren" }
+  ],
+  "2005":[
+    { "value": 6666, "city": "Sandy" },
+    { "value": 1000, "city": "Apple" },
+    { "value": 400, "city": "Darren" }
+  ],
+  "2006": [
+    { "value": 10000, "city": "Sandy" },
+    { "value": 2000, "city": "Apple" },
+    { "value": 200, "city": "Darren" }
+  ],
+  "2007": [
+    { "value": 20000, "city": "Sandy" },
+    { "value": 10000, "city": "Apple" },
+    { "value": 5000, "city": "Darren" }
+  ],
+  "2008": [
+    { "value": 30000, "city": "Sandy" },
+    { "value": 30000, "city": "Apple" },
+    { "value": 20000, "city": "Darren" }
+  ],
+  "2009": [
+    { "value": 35000, "city": "Sandy" },
+    { "value": 25000, "city": "Apple" },
+    { "value": 25000, "city": "Darren" }
+  ],
+  "2010": [
+    { "value": 50000, "city": "Sandy" },
+    { "value": 40000, "city": "Apple" },
+    { "value": 60000, "city": "Darren" }
+  ],
+  "2011": [
+    { "value": 100000, "city": "Sandy" },
+    { "value": 100000, "city": "Apple" },
+    { "value": 200000, "city": "Darren" }
+  ]
+}
